@@ -1,0 +1,26 @@
+var helper_8hpp =
+[
+    [ "_ERROR_TO_STRING", "helper_8hpp.html#aec6c53c8f66d643cd35e9a84e080f608", null ],
+    [ "BLU", "helper_8hpp.html#add9307de87f38e77d336751e305886f6", null ],
+    [ "CUDA_API_CALL", "helper_8hpp.html#a162024abd9880845b8e1c12c8afde80e", null ],
+    [ "CYN", "helper_8hpp.html#adc708fa688f5d78db361f66c36f0f807", null ],
+    [ "ERROR_LOG", "helper_8hpp.html#a9092e5480792572c8703018ac84ab60c", null ],
+    [ "GRN", "helper_8hpp.html#aea69ffbacdcdf16c21b8c9961df84448", null ],
+    [ "GTUCKER_REMOVE_POINTER_TYPE_ALIAS", "helper_8hpp.html#ac2b2c47368c18b762bfd2ae7860fc364", null ],
+    [ "MAG", "helper_8hpp.html#af54a5a977c0c499323d656315f008ee0", null ],
+    [ "MYDEBUG", "helper_8hpp.html#a77264fb985fc6a8859661f944147ff4f", null ],
+    [ "MYDEBUG_1", "helper_8hpp.html#a4e8f83ce1af634e423264d24b860d57d", null ],
+    [ "MYPRINT", "helper_8hpp.html#ace7f5a56eaa78c75f8267d5d6d5d6da5", null ],
+    [ "RED", "helper_8hpp.html#a8d23feea868a983c8c2b661e1e16972f", null ],
+    [ "RESET", "helper_8hpp.html#ab702106cf3b3e96750b6845ded4e0299", null ],
+    [ "WHT", "helper_8hpp.html#aeaf3a04d5bf63b204689a714718ea930", null ],
+    [ "YEL", "helper_8hpp.html#a96fac03c4ab3363f06a0328e0e53a40c", null ],
+    [ "_cuda_check", "helper_8hpp.html#a2b7039e3a1338692cc23b5d659129f16", null ],
+    [ "_cuda_get_error_enum", "helper_8hpp.html#a811eaff5219b14bf771d6d37f96b7a72", null ],
+    [ "abs", "helper_8hpp.html#ab2172c2d1171da323fe6c968be66a761", null ],
+    [ "allocate", "helper_8hpp.html#a6b90544c94c3b6d91bcc202ba75e178c", null ],
+    [ "deallocate", "helper_8hpp.html#a4491b1e4b98adfd17bbfd3c636af9b65", null ],
+    [ "frand", "helper_8hpp.html#af96c4ba3d0effc0d954b0db329d80f4d", null ],
+    [ "make_error_log", "helper_8hpp.html#aa063934e27b2a4d74b34aaa283d3abd4", null ],
+    [ "PrintLine", "helper_8hpp.html#a610a8159f773514d69cfe06ed0486501", null ]
+];
