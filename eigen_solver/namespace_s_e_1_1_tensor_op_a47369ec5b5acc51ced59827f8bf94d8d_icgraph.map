@@ -1,0 +1,9 @@
+<map id="SE::TensorOp::matmul" name="SE::TensorOp::matmul">
+<area shape="rect" id="node1" title=" " alt="" coords="445,115,611,141"/>
+<area shape="rect" id="node2" href="$namespace_s_e.html#a18efbe6d458c69643a83727a01c81b53" title=" " alt="" coords="204,5,368,32"/>
+<area shape="rect" id="node3" href="$namespace_s_e.html#a86920cb748dd11e9898ebc85838b9105" title=" " alt="" coords="233,56,339,83"/>
+<area shape="rect" id="node5" href="$class_s_e_1_1_dense_tensor_operations.html#aa6b16abb59029d9bd8d43a2c4e7fd408" title=" " alt="" coords="186,107,386,149"/>
+<area shape="rect" id="node6" href="$class_s_e_1_1_sparse_tensor_operations.html#a93140be61381c31bdd5c5e2e68314f68" title=" " alt="" coords="185,173,387,214"/>
+<area shape="rect" id="node7" href="$namespace_s_e.html#ab8994befa5f67f4e9e0b82d82e0f0410" title=" " alt="" coords="175,239,397,295"/>
+<area shape="rect" id="node4" href="$namespace_s_e.html#a090de0d5632e9d341d7090156ba3b6e0" title=" " alt="" coords="5,56,127,83"/>
+</map>

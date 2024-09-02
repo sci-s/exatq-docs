@@ -1,0 +1,12 @@
+<map id="SE::DenseTensor::copy_data" name="SE::DenseTensor::copy_data">
+<area shape="rect" id="node1" title=" " alt="" coords="749,132,953,159"/>
+<area shape="rect" id="node2" href="$class_s_e_1_1_dense_tensor.html#a5797f53401f763c86d439cfb1ff1a4e9" title=" " alt="" coords="504,81,676,108"/>
+<area shape="rect" id="node9" href="$namespace_s_e.html#a550e5a8361b266c6e837b53b7eff51d4" title=" " alt="" coords="555,132,625,159"/>
+<area shape="rect" id="node10" href="$namespace_s_e.html#ab8994befa5f67f4e9e0b82d82e0f0410" title=" " alt="" coords="479,183,701,239"/>
+<area shape="rect" id="node3" href="$namespace_s_e_1_1_tensor_op.html#ad15f9b3499569a75c622c9aef1510953" title=" " alt="" coords="272,5,411,32"/>
+<area shape="rect" id="node5" href="$class_s_e_1_1_i_s_i2_preconditioner.html#a15bffd4c81e638f1a900faae222fb980" title=" " alt="" coords="23,74,187,115"/>
+<area shape="rect" id="node6" href="$namespace_s_e_1_1_tensor_op.html#a736fdeed10e500479c0e4d4f28f367d4" title=" " alt="" coords="252,107,431,133"/>
+<area shape="rect" id="node7" href="$namespace_s_e_1_1_tensor_op.html#abce4ef73be12694f1f3f360a908677d3" title=" " alt="" coords="267,158,415,199"/>
+<area shape="rect" id="node4" href="$namespace_s_e.html#a18efbe6d458c69643a83727a01c81b53" title=" " alt="" coords="23,5,187,32"/>
+<area shape="rect" id="node8" href="$class_s_e_1_1_diagonal_preconditioner.html#a6d932d60dfc1cb724490475648a98ad8" title=" " alt="" coords="5,158,204,199"/>
+</map>

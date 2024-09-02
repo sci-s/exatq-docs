@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['add_5f_3c_20double_2c_20mtype_3a_3ablockcycling_2c_20devicetype_3a_3ampi_20_3e_277',['add_&lt; double, MTYPE::BlockCycling, DEVICETYPE::MPI &gt;',['../namespace_s_e.html#a5e8bbd6b248cae7cc859d8ea8a99f39d',1,'SE']]],
+  ['matmul_3c_20double_2c_20mtype_3a_3acontiguous1d_2c_20devicetype_3a_3amkl_20_3e_278',['matmul&lt; double, MTYPE::Contiguous1D, DEVICETYPE::MKL &gt;',['../namespace_s_e.html#a391c4fe2faefdc9393347d30b524af63',1,'SE']]],
+  ['t_279',['T',['../namespace_s_e.html#ace930c43340d3a7f46f30b72aa6e4f58ab9ece18c950afbfa6b0fdbfa4ff731d3',1,'SE']]],
+  ['tensor_280',['Tensor',['../class_s_e_1_1_tensor.html',1,'SE::Tensor&lt; dimension, DATATYPE, mtype, device, STORETYPE &gt;'],['../class_s_e_1_1_tensor.html#a03345a62c2606f0aa8bf5f8fc6946917',1,'SE::Tensor::Tensor(const Comm&lt; SEMpi &gt; *_comm, const std::array&lt; int, 2 &gt; _shape, const std::vector&lt; std::pair&lt; std::array&lt; int, 2 &gt;, double &gt;&gt; data, const bool is_sliced, const int sliced_dimension)'],['../class_s_e_1_1_tensor.html#aa228801152342a5bc54613624f522348',1,'SE::Tensor::Tensor(const Tensor&lt; dimension, DATATYPE, mtype, device, STORETYPE &gt; &amp;tensor)'],['../class_s_e_1_1_tensor.html#aca7908745c7763b96a53c920be32240f',1,'SE::Tensor::Tensor(const std::unique_ptr&lt; Comm&lt; device &gt; &gt; &amp;ptr_comm, const std::unique_ptr&lt; Map&lt; dimension, mtype &gt;&gt; &amp;ptr_map, INTERNALTYPE &amp;data)'],['../class_s_e_1_1_tensor.html#a18fdf11d6a8501a2d4010fb0d86110cd',1,'SE::Tensor::Tensor(const std::unique_ptr&lt; Comm&lt; device &gt; &gt; &amp;ptr_comm, const std::unique_ptr&lt; Map&lt; dimension, mtype &gt;&gt; &amp;ptr_map)'],['../class_s_e_1_1_tensor.html#ac9c3123f2d74781b0b20ef3fd9900263',1,'SE::Tensor::Tensor()'],['../class_s_e_1_1_tensor_3_01_s_t_o_r_e_t_y_p_e_1_1_c_o_o_00_01_d_a_t_a_t_y_p_e_00_01dimension_00_01device_00_01_m_a_p_t_y_p_e_01_4.html#a6332d5dd03792655c496ad5e84b9fcc3',1,'SE::Tensor&lt; STORETYPE::COO, DATATYPE, dimension, device, MAPTYPE &gt;::Tensor()']]],
+  ['tensor_2ehpp_281',['Tensor.hpp',['../_tensor_8hpp.html',1,'']]],
+  ['tensor_3c_20dimension_2c_20datatype_2c_20mtype_2c_20device_2c_20storetype_3a_3adense_20_3e_282',['Tensor&lt; dimension, DATATYPE, mtype, device, STORETYPE::DENSE &gt;',['../class_s_e_1_1_tensor.html',1,'SE']]],
+  ['tensor_3c_20dimension_2c_20datatype_2c_20mtype_3a_3acontiguous1d_2c_20devicetype_3a_3abase_2c_20storetype_3a_3acoo_20_3e_283',['Tensor&lt; dimension, DATATYPE, MTYPE::Contiguous1D, DEVICETYPE::BASE, STORETYPE::COO &gt;',['../class_s_e_1_1_tensor.html',1,'SE']]],
+  ['tensor_3c_20storetype_3a_3acoo_2c_20datatype_2c_20dimension_2c_20device_2c_20maptype_20_3e_284',['Tensor&lt; STORETYPE::COO, DATATYPE, dimension, device, MAPTYPE &gt;',['../class_s_e_1_1_tensor_3_01_s_t_o_r_e_t_y_p_e_1_1_c_o_o_00_01_d_a_t_a_t_y_p_e_00_01dimension_00_01device_00_01_m_a_p_t_y_p_e_01_4.html',1,'SE']]],
+  ['tensor_5foperations_285',['tensor_operations',['../namespacetensor__operations.html',1,'']]],
+  ['tensor_5foperations_2epy_286',['tensor_operations.py',['../tensor__operations_8py.html',1,'']]],
+  ['tensorop_2ehpp_287',['TensorOp.hpp',['../_tensor_op_8hpp.html',1,'']]],
+  ['tensoroperations_288',['TensorOperations',['../class_s_e_1_1_tensor_operations.html',1,'SE::TensorOperations&lt; mtype, device &gt;'],['../class_s_e_1_1_tensor_operations.html#af4e8cf1114aa57803473c5dcd65ec2b4',1,'SE::TensorOperations::TensorOperations()']]],
+  ['tensoroperations_2ehpp_289',['TensorOperations.hpp',['../_tensor_operations_8hpp.html',1,'']]],
+  ['testoperations_2ehpp_290',['TestOperations.hpp',['../_test_operations_8hpp.html',1,'']]],
+  ['testtensoroperations_291',['TestTensorOperations',['../class_s_e_1_1_test_tensor_operations.html',1,'SE::TestTensorOperations&lt; mtype, device &gt;'],['../class_s_e_1_1_test_tensor_operations.html#a7c94c48dc5a3c67b0e2e05430878c109',1,'SE::TestTensorOperations::TestTensorOperations()'],['../class_s_e_1_1_test_tensor_operations.html#a723803e97e819b4b32701f327ac7855b',1,'SE::TestTensorOperations::TestTensorOperations(int matrix_size)']]],
+  ['tolerance_292',['tolerance',['../class_s_e_1_1_decompose_option.html#aed0eac22d5c99010758e8e5c62104b16',1,'SE::DecomposeOption']]],
+  ['transtype_293',['TRANSTYPE',['../namespace_s_e.html#ace930c43340d3a7f46f30b72aa6e4f58',1,'SE']]],
+  ['transtype_5fto_5fchar_294',['transtype_to_char',['../namespace_s_e.html#ada991d8fa8db97db3c9fc946c1b844bd',1,'SE']]],
+  ['type_295',['type',['../class_s_e_1_1_preconditioner.html#a4809a2935af3d948050e9dde8caddde0',1,'SE::Preconditioner']]],
+  ['type_2ehpp_296',['Type.hpp',['../_type_8hpp.html',1,'']]]
+];
